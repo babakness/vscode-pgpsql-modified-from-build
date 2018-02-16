@@ -37,7 +37,7 @@ function activate(context) {
     // client can be deactivated on extension deactivation 
     var pgsqlcp = new commandProvider_1.default();
     pgsqlcp.activate(context.subscriptions);
-    context.subscriptions.push(vscode.commands.registerCommand('pgsql.run', function () {
+    context.subscriptions.push(vscode.commands.registerCommand('_pgsql.run', function () {
         pgsqlcp.run();
     }));
     // context.subscriptions.push(vscode.languages.registerCompletionItemProvider(['pgsql'], new completionProvider_1.default(), '.', ' '));
