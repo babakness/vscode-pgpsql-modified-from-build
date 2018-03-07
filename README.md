@@ -13,4 +13,4 @@ To hack doubleflint's language file,
 2. **Get color coding to work**. Go into doubleflints `extension` directory and point to `ln -s ~/work/vscode-extensions/vscode-pgpsql-modified-from-build/syntaxes/pgsql.tmLanguage babak.tmLanguage`
 3. Refresh vscode
 
-a copy of the babak.pgsql-0.0.1 should be under `~/work/vscode-extensions` as well
+a copy of this repo is under `~/work/vscode-extensions/`
