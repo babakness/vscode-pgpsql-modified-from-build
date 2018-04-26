@@ -14,3 +14,7 @@ To hack doubleflint's language file,
 3. Refresh vscode
 
 a copy of this repo is under `~/work/vscode-extensions/`
+
+PS - Regarding python showing this
+
+local source @ ~/work/2018/mar/vscode-pgpsql-modified-from-build/
