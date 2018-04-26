@@ -14,3 +14,5 @@ To hack doubleflint's language file,
 3. Refresh vscode
 
 a copy of this repo is under `~/work/vscode-extensions/`
+
+t
